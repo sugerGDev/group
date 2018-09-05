@@ -1,0 +1,87 @@
+/**index.wxss**/
+@import "/css/list.wxss"
+
+scroll-view .header {
+  height: 92rpx;
+  background-color: #181818;
+}
+
+.header .city {
+  float: left;
+  color: #d3b9a0;
+  width: 142rpx;
+  line-height: 92rpx;
+  font-size: 29rpx;
+  text-align: center;
+}
+
+.header .city::after {
+  content: "";
+  height: 0;
+  position: relative;
+  top: -5rpx;
+  display: inline-block;
+  margin-left: 5rpx;
+  vertical-align: middle;
+  border-width: 10rpx 10rpx 0;
+  border-style: solid;
+  border-color: #d3b9a0 transparent transparent;
+}
+
+.header .user-info image {
+  float: right;
+  width: 48rpx;
+  height: 48rpx;
+  margin: 23rpx 30rpx 0 0;
+}
+
+
+
+
+
+scroll-view .nav-list {
+  display: flex;
+  flex-direction: row;
+  height: 200rpx;
+  background-color: #fff;
+}
+
+scroll-view .nav-list navigator {
+  margin: auto;
+  flex: 1;
+  text-align: center;
+}
+
+/** 修改默认的navigator点击态
+.navigator-hover {
+    color:blue;
+}
+ 自定义其他点击态样式类
+.other-navigator-hover {
+    color:red;
+} **/
+
+scroll-view .nav-list image {
+  width: 87.5rpx;
+  height: 87.5rpx;
+  
+}
+
+scroll-view .nav-list text {
+  display: block;
+  line-height: 50rpx;
+  font-size: 26rpx;
+}
+
+
+
+scroll-view .hot {
+  background-color: #fff;
+  margin-top: 20rpx;
+}
+
+.hot .hot-title {
+  color: #777;
+  font: 30rpx/80rpx '宋体';
+  padding-left: 30rpx;
+}

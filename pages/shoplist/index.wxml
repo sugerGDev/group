@@ -1,0 +1,18 @@
+<!--pages/shoplist/index.wxml-->
+<import src='/template/list.wxml' />
+
+
+<scroll-view scroll-y>
+  <view class='list-nav'>
+    <text class='iconfont icon-xiangxia'>附近</text>
+    <text class='iconfont icon-xiangxia'>智能排序</text>
+  </view>
+
+  <view class='shoplist'>
+       <template is='list-template' />
+  </view>
+
+
+  <view class='load-more'>加载更多..</view>
+
+</scroll-view>

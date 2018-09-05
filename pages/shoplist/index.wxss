@@ -1,0 +1,7 @@
+/* pages/shoplist/index.wxss */
+@import '/css/font.wxss';
+@import '/css/list.wxss';
+
+.shoplist {
+  background-color: white;
+}
