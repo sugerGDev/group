@@ -5,14 +5,25 @@
 <scroll-view scroll-y>
   <view class='list-nav'>
     <text class='iconfont icon-xiangxia'>附近</text>
+    <text class='divline'>|</text>
     <text class='iconfont icon-xiangxia'>智能排序</text>
   </view>
 
   <view class='shoplist'>
        <template is='list-template' />
   </view>
-
-
   <view class='load-more'>加载更多..</view>
+
+<view class='range options'>
+<view>500米</view>
+<view>1000米</view>
+<view>2000米</view>
+</view>
+
+<view class='sort options'>
+<view>评分</view>
+<view>距离</view>
+</view>
+
 
 </scroll-view>

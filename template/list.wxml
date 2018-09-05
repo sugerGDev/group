@@ -25,6 +25,355 @@
 
         </view>
       </view>
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+
+            <view class='list-item'>
+        <image src='/assets/img.png' />
+        <view class='list-info'>
+          <!-- title -->
+          <view class='list-title'>秒味课堂</view>
+          <view class='clear'>
+            <!-- score -->
+            <view class='list-score'>
+              <view class='score'></view>
+            </view>
+            <!-- price -->
+            <view class='list-price'>
+            ¥ 40/人 </view>
+          </view>
+
+             <!-- posistion -->
+            <view class='list-position'>
+              上地 快餐简餐
+              <text class='list-dist'>165m</text>
+            </view>
+
+
+        </view>
+      </view>
+
+
+      
     </view>
 
 </template>
